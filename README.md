@@ -12,7 +12,7 @@
 ](https://discord.gg/y9UCbWK2hJ)
 
 ### A simple, multi-functional bot - Focuses more in anime.
-This Wiki is designed to help you use Jibon Discord Bot to it's full potential. Please select categories below to get started.
+This Wiki is designed to help you use Jibon Bot to it's full potential. Please select categories below to get started.
 ## [ANISCHEDULE](https://github.com/japandotorg/Jibon/wiki/Anischedule)
 Know about the powerful Anischedule feature, what it does, and how to set one up.
 ## [COMMANDS](https://github.com/japandotorg/Jibon/wiki/Commands)
