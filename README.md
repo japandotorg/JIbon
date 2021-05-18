@@ -6,7 +6,7 @@
 [![contributers](https://img.shields.io/github/contributors/japandotorg/Lemon?style=flat-square)
 ](https://github.com/japandotorg/Lemon/graphs/contributors)
 [![Github Stars](https://img.shields.io/github/stars/japandotorg?affiliations=OWNER&style=social)
-](https://github.com/japandotorg/Lemon/stargazers)
+](https://github.com/japandotorg/Jibon/stargazers)
 <br>
 [![Support Server](https://img.shields.io/discord/468341280179486720?style=for-the-badge)
 ](https://discord.gg/y9UCbWK2hJ)
